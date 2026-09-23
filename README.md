@@ -16,9 +16,3 @@ Computational physics projects.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cks&layout=compact&theme=default)
