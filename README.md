@@ -1,9 +1,3 @@
-# lucas-cks
-
-Computational physics projects.
-
----
-
 ## Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
