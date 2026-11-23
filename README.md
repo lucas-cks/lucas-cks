@@ -15,4 +15,4 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=lucas-cks&layout=compact&theme=default)
+
